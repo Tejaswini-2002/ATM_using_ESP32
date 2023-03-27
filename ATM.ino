@@ -4,8 +4,8 @@
 #include <WiFi.h>
 #include "HTTPClient.h"
 
-const char* ssid = "OPPO A15S";
-const char* password = "09876543";
+const char* ssid = "XXXXXXX";
+const char* password = "XXXXX";
 
 #define BOT_ID "5961295166:AAHxj8qc4vJvIlVMB2ZDIQ_FA82778rOSXI"  
 #define CHAT_ID "1490481782"  //replace with your telegram user ID
