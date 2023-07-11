@@ -1,4 +1,4 @@
-# ATM-machine-system-using-ESP32-development-board-Telegram-bot-and-google-sheet.
+# ATM-machine-system-using-ESP32-development-board-Telegram-bot-and-google-sheet
 
 Requirements: Arduino IDE, ESP32 development board, data cable, Telegram app, google sheet.
 
