@@ -19,5 +19,6 @@ Procedure:
 7. Verification of login credentials.
 8. Updation in Google sheets The transactions made will be updated simultaneosly in the google sheet with the help of sheetupdate function in 4 columns(Credit, Debit, Total balance, Type of transaction).
 
+you tube video link: https://www.youtube.com/watch?v=BdroWOkqNSo 
 
 
